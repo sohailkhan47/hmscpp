@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1653897803 source:/home/sahir/Desktop/C++/final_project/main.cpp
+	<bits/stdc++.h>
+	<iostream>
+	"Hostel.h"
+
+1655374423 /home/sahir/Desktop/C++/final_project/include/Hostel.h
+	<string>
+	<vector>
+
+1655374437 source:/home/sahir/Desktop/C++/final_project/src/Hostel.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<algorithm>
+	"Hostel.h"
+
